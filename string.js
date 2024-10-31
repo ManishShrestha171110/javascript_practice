@@ -1,3 +1,8 @@
+/* Creating variable and doing the following tasks:
+1. Finding length of the variable
+2. Changing to upper case
+3. Extacting the first three letters */
+
 var myName="Manish";
 
 var nameLength=myName.length;
